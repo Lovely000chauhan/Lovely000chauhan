@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lovely000chauhan
-- 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning javascript and python
+- 👀 I’m interested in learning Artificial intelegience
+- 🌱 I’m currently learning  DSA 
 
   
 
